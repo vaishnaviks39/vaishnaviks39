@@ -8,7 +8,8 @@
 🎓 I’m currently pursuing my **Master’s in Computer Science** at **Illinois Institute of Technology**, graduating **December 2025**  
 ⚙️ I’m a **Salesforce Certified Administrator** and **Salesforce Certified Platform Developer**  
 🔍 Passionate about **Salesforce CRM**, **Machine Learning**, and building **end-to-end data-driven solutions**  
-🧠 Lifelong learner — constantly building real-world use cases, apps, and contributing to open-source 
+🧠 Lifelong learner — constantly building real-world use cases, apps, and contributing to open-source
+
 📌 Actively seeking **internships or full-time opportunities** in:
 - **Salesforce/CRM Development**
 - **Data Analysis / Data Science**
