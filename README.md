@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Saundankar</h1>
-<h3 align="center">Master of Computer Science @ Illinois Tech | Aspiring Data Scientist / ML Engineer | GenAI | RAG | LLMs | Agentic AI</h3>
+<h3 align="center">Master of Computer Science @ Illinois Tech | Aspiring AI Engineer/ Data Scientist | GenAI | RAG | LLMs | Agentic AI</h3>
 
 ---
 
